@@ -52,7 +52,7 @@
     "handlebars": "4.0.10",
     "inputmask": "^3.3.11",
     "ion-rangeslider": "^2.2.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-flot": "^0.8.3",
     "jquery-form": "^4.2.2",
     "jquery-validation": "^1.16.0",
