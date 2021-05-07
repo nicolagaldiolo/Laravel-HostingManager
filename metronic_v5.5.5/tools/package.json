@@ -49,7 +49,7 @@
     "fullcalendar": "^3.7.0",
     "gmaps": "^0.4.24",
     "gulp-rtlcss": "^1.2.0",
-    "handlebars": "4.0.10",
+    "handlebars": "4.7.7",
     "inputmask": "^3.3.11",
     "ion-rangeslider": "^2.2.0",
     "jquery": "^3.3.1",
